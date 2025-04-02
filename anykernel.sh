@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=S24/ZFold6/ZFlip6-Knox-Disabled-Kernel-Kokuban
+kernel.string=S24U-Kernel-Felixardian
 do.devicecheck=1
 do.modules=0
 do.systemless=1
